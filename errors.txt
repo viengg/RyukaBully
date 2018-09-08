@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 106: Line is indented, but the preceding play statement statement does not expect a block. Please check this line's indentation.
+    show movie with fade
+    ^
+
+Ren'Py Version: Ren'Py 7.0.0.196
+Sat Sep 08 00:05:07 2018
